@@ -1,4 +1,0 @@
-PROMPT UTILIZADO:
-
-"Actúa como un desarrollador experto en Python y Streamlit. Use el archivo csv adjunto de Ventas de Videojuegos. Diseña una aplicación interactiva, moderna y limpia para predecir las ventas globales de videojuegos usando modelos de Machine Learning pre-entrenados (.pkl).
-La app debe contener menús desplegables claros para seleccionar el género y la plataforma, barras deslizadoras para las ventas de Norteamérica, Europa y Japón, un selector del modelo a evaluar, y mostrar el resultado de la predicción de forma vistosa en pantalla mediante cajas de éxito."
